@@ -2,6 +2,9 @@
 	margin: 0px;
 	font-family: "Outfit";
 }
+html body {
+	height: 100%;
+}
 .container {
 	display: flex;
 	height: 39em;
